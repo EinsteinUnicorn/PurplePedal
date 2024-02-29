@@ -10,6 +10,6 @@ This documentation is a work in progress, we will document here what we are work
 | **2/28**  | Remove Electrical Noise & Adjust Output Gain| Becky |
 | **2/28**  | Create Code Sample with working Potentiometer| Jason |
 | **2/28**  | Create Sample Code for Bitcrush| Becky |
-| **2/28**  | Create Sample Code for 2 effects| Becky |
+| **2/28**  | Create Sample Code for 2 effects| Jason|
 
 
