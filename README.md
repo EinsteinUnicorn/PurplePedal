@@ -6,8 +6,12 @@ This documentation is a work in progress, we will document here what we are work
 
 Week of 2/28
 
-Removing Electrical Noise - Becky
+Removing Electrical Noise - Becky 
+
 Adjust Output Gain - Becky
+
 Publish Sample Code for Bitcrush - Becky
+
 Potentiometer Working - Jason 
+
 Publish Sample Code for 2 Effects- Jason
