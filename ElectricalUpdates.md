@@ -1,4 +1,6 @@
 **2/28 Update**
+
+
 This week I'm figuring out how to get rid of electrical noise in our system. We have noticed certain noise with the daisy seed when the seed is unplugged, and the USB is touched, and also some additional noise while the seed is plugged into a computer. We have notice decent reduction in noise when using a powerbank, but we would like to make our system a bit more robust.
 
 This is the process I'm planning to go through this week to tackle this problem. 
