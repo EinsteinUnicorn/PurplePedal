@@ -4,14 +4,12 @@ This is our documention for the purple pedal, an audio effects device based on t
 
 This documentation is a work in progress, we will document here what we are working on this week here. 
 
-Week of 2/28
 
-Removing Electrical Noise - Becky 
+| Week of |  Task | Person|
+|:-----|:--------:|------:|
+| **2/28**  | Remove Electrical Noise & Adjust Output Gain| Becky |
+| **2/28**  | Create Code Sample with working Potentiometer| Jason |
+| **2/28**  | Create Sample Code for Bitcrush| Becky |
+| **2/28**  | Create Sample Code for 2 effects| Becky |
 
-Adjust Output Gain - Becky
 
-Publish Sample Code for Bitcrush - Becky
-
-Potentiometer Working - Jason 
-
-Publish Sample Code for 2 Effects- Jason
