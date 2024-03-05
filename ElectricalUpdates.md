@@ -16,6 +16,7 @@ This is the process I'm planning to go through this week to tackle this problem.
 Soldered up a test board with wires coming out where the input and output jacks would be for easy testing. 
 
 **Test 1** 
+
 Hooked up the output signal and powered daisy seed with USB to the oscilliscope. I let it sit for a couple of minutes, and measured the min and max freq and also the vpp. 
 |  |  Min| Max|
 |:-----|:--------:|------:|
@@ -25,6 +26,7 @@ Hooked up the output signal and powered daisy seed with USB to the oscilliscope.
 This confirms that there is definitely a noise problem because humans can hear from 20 Hz to 20 kHz. 
 
 **Other Tests**
+
 tested this with a 1kHz sine wave and the signal looked extremely noisy. There was a slight difference when I connected 9v to Vin. I wish I brought my speaker to test to see if the effect was audible. This test does confirm that a filter is needed.
 
 I plan to build a LPF for 1k and 10k Hz Tomorrow or Wednesday and test. 
