@@ -2,7 +2,7 @@
 
 To start, I am planning on creating a code file that daisyseed effects from the DSP library can be pulled from and dropped into. This file will include functional LED and POT integration. I will use a phasor to start
 
-3.6 update ___________________________________________________________________
+**3/6 Update**
 
 Took a stab at creating a phaser effect that had hardware integration and learned so much about what the Daisyseed library can do.
 
@@ -15,4 +15,3 @@ Noteable changes:
 Next steps:
 + integrate a potentiometer to adjust the frequency of the phasor effect
 
-update ___________________________________________________________________
